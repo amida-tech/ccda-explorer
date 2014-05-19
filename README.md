@@ -5,22 +5,15 @@ Cycling through CCDA-samples with blue-button.js
 
 ## Running stuff
 
-'''
+```
 npm install
-
 git clone https://github.com/chb/sample_ccdas.git
-
 mkdir dump
-
 node explorer.js
-
 cp ./dump/stats.json ./explorer/stats.js
-
 cd explorer
-
 python index.py
-
-'''
+```
 
 - It will download sample_ccda repo
 - Create dump folder
