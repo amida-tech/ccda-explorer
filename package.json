@@ -1,0 +1,25 @@
+{
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "blue-button": "*",
+    "blue-button-meta": "*",
+    "libxmljs": "*",
+    "path": "*",
+    "walk": "*",
+    "winston": "*"
+  },
+  "devDependencies": {
+    "libxmljs": "*",
+    "walk": "*",
+    "path": "*",
+    "winston": "*"
+  }
+}
