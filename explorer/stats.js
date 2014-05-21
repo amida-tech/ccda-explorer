@@ -9,17 +9,17 @@
         ],
         "index": 0,
         "full": [
-            false,
-            false,
-            false,
-            false,
-            false
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "sections": [
             {
                 "template": "Operative Note",
                 "xml_sections": [],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -34,7 +34,7 @@
             {
                 "template": "Operative Note",
                 "xml_sections": [],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -49,7 +49,7 @@
             {
                 "template": "Operative Note",
                 "xml_sections": [],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -64,7 +64,7 @@
             {
                 "template": "Operative Note",
                 "xml_sections": [],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -79,7 +79,7 @@
             {
                 "template": "Operative Note",
                 "xml_sections": [],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -99,7 +99,7 @@
         ],
         "index": 1,
         "full": [
-            false
+            true
         ],
         "sections": [
             {
@@ -115,7 +115,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -125,7 +125,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             }
         ]
     },
@@ -135,7 +135,7 @@
         ],
         "index": 2,
         "full": [
-            false
+            true
         ],
         "sections": [
             {
@@ -150,7 +150,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -160,7 +160,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             }
         ]
     },
@@ -187,7 +187,7 @@
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
@@ -203,7 +203,7 @@
         ],
         "index": 4,
         "full": [
-            false
+            true
         ],
         "sections": [
             {
@@ -220,17 +220,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             }
         ]
     },
@@ -303,7 +303,7 @@
         ],
         "index": 6,
         "full": [
-            false
+            true
         ],
         "sections": [
             {
@@ -314,13 +314,13 @@
                     "Medications",
                     "Vital Signs"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -547,18 +547,18 @@
         ],
         "index": 8,
         "full": [
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "sections": [
             {
@@ -574,189 +574,14 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": false
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
                 "ccda_medications": true,
-                "ccda_problems": false,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
@@ -774,17 +599,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -799,17 +624,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -824,17 +649,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -849,17 +674,192 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
             }
         ]
     },
@@ -1553,687 +1553,687 @@
         "full": [
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            true,
-            false,
-            false,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            false,
-            false,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
             true,
             true,
             true,
             true,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
             true,
             true,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
             true,
             true,
             true,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
             true,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
             true,
             true,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
             true,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
             true,
-            false,
             true,
             true,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
             true,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
-            false,
-            false,
             true,
             true,
-            false,
-            false,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "sections": [
             {
@@ -2308,7 +2308,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2318,7 +2318,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2336,7 +2336,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2346,7 +2346,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2364,7 +2364,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2374,7 +2374,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2392,7 +2392,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2402,7 +2402,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2420,7 +2420,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2430,7 +2430,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2448,7 +2448,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2504,7 +2504,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2514,7 +2514,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2532,7 +2532,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2542,7 +2542,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2560,7 +2560,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2570,7 +2570,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2588,7 +2588,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2598,7 +2598,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2616,7 +2616,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2626,7 +2626,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2700,7 +2700,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2710,7 +2710,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2728,7 +2728,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2738,7 +2738,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2784,7 +2784,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2794,7 +2794,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2812,7 +2812,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2822,7 +2822,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2840,7 +2840,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2868,7 +2868,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2878,7 +2878,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2896,7 +2896,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2906,7 +2906,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2924,7 +2924,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2934,7 +2934,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2952,7 +2952,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -2962,7 +2962,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -2980,7 +2980,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3036,7 +3036,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3046,7 +3046,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3064,17 +3064,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3092,7 +3092,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3102,7 +3102,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3120,7 +3120,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3130,7 +3130,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3148,7 +3148,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3176,7 +3176,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3186,7 +3186,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3232,7 +3232,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3242,7 +3242,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3260,17 +3260,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3316,13 +3316,13 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -3344,7 +3344,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3354,7 +3354,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3372,7 +3372,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3382,7 +3382,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3400,7 +3400,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3410,7 +3410,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3428,7 +3428,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3438,7 +3438,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3456,7 +3456,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3466,7 +3466,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3484,13 +3484,13 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -3512,7 +3512,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3540,7 +3540,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3550,7 +3550,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3568,7 +3568,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3578,7 +3578,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3624,7 +3624,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3634,7 +3634,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3652,7 +3652,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3680,7 +3680,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3690,7 +3690,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3708,7 +3708,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3718,7 +3718,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3736,7 +3736,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3746,7 +3746,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3764,7 +3764,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3774,7 +3774,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3792,7 +3792,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3802,7 +3802,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3820,7 +3820,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3830,7 +3830,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3848,7 +3848,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3858,7 +3858,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3876,7 +3876,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3886,7 +3886,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3960,7 +3960,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3970,7 +3970,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -3988,7 +3988,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -3998,7 +3998,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4016,7 +4016,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4026,7 +4026,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4044,7 +4044,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4072,7 +4072,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4082,7 +4082,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4100,7 +4100,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4110,7 +4110,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4128,7 +4128,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4138,7 +4138,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4156,7 +4156,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4166,7 +4166,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4240,7 +4240,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4250,7 +4250,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4268,7 +4268,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4296,7 +4296,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4306,7 +4306,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4324,7 +4324,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4334,7 +4334,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4352,7 +4352,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4362,7 +4362,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4380,7 +4380,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4408,7 +4408,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4418,7 +4418,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4436,7 +4436,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4446,7 +4446,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4464,7 +4464,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4474,7 +4474,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4520,7 +4520,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4530,7 +4530,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4604,7 +4604,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4632,7 +4632,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4642,7 +4642,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4660,7 +4660,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4670,7 +4670,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4716,7 +4716,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4772,7 +4772,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4782,7 +4782,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4828,7 +4828,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4838,7 +4838,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4856,7 +4856,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4866,7 +4866,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4884,7 +4884,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4894,7 +4894,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4912,7 +4912,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4922,7 +4922,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4940,7 +4940,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4950,7 +4950,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4968,7 +4968,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -4978,7 +4978,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -4996,7 +4996,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5006,7 +5006,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5024,7 +5024,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5034,7 +5034,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5052,7 +5052,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5108,7 +5108,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5118,7 +5118,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5192,7 +5192,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5220,7 +5220,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5230,7 +5230,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5248,7 +5248,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5258,7 +5258,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5304,7 +5304,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5314,7 +5314,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5332,7 +5332,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5342,7 +5342,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5388,7 +5388,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5398,7 +5398,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5500,7 +5500,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5510,7 +5510,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5528,7 +5528,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5538,7 +5538,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5556,7 +5556,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5566,7 +5566,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5584,7 +5584,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5594,7 +5594,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5612,7 +5612,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5622,7 +5622,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5640,7 +5640,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5650,7 +5650,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5668,7 +5668,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5678,7 +5678,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5696,7 +5696,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5706,7 +5706,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5724,7 +5724,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5734,7 +5734,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5752,7 +5752,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5762,7 +5762,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5780,7 +5780,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5790,7 +5790,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5808,7 +5808,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5818,7 +5818,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5892,7 +5892,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5902,7 +5902,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5920,7 +5920,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5930,7 +5930,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5948,7 +5948,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -5958,7 +5958,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -5976,7 +5976,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6004,7 +6004,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6014,7 +6014,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6032,7 +6032,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6042,7 +6042,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6060,7 +6060,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6088,7 +6088,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6116,7 +6116,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6126,7 +6126,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6144,7 +6144,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6154,7 +6154,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6200,7 +6200,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6228,7 +6228,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6238,7 +6238,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6284,7 +6284,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6312,7 +6312,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6322,7 +6322,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6368,7 +6368,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6378,7 +6378,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6396,17 +6396,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6424,7 +6424,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6480,7 +6480,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6490,7 +6490,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6508,7 +6508,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6564,7 +6564,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6574,7 +6574,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6648,7 +6648,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6704,7 +6704,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6714,7 +6714,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6788,7 +6788,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6816,7 +6816,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6826,7 +6826,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6844,7 +6844,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6854,7 +6854,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6872,7 +6872,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6882,7 +6882,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -6928,7 +6928,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -6938,7 +6938,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7012,7 +7012,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7022,7 +7022,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7040,7 +7040,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7068,7 +7068,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7078,7 +7078,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7096,7 +7096,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7124,7 +7124,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7134,7 +7134,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7320,7 +7320,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7330,7 +7330,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7376,7 +7376,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7386,7 +7386,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7404,7 +7404,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7460,7 +7460,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7470,7 +7470,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7516,7 +7516,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7572,7 +7572,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7582,7 +7582,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7600,17 +7600,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7656,7 +7656,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7666,7 +7666,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7740,7 +7740,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7750,7 +7750,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7768,7 +7768,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7778,7 +7778,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7824,7 +7824,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7834,7 +7834,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7852,7 +7852,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7908,7 +7908,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7918,7 +7918,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7936,7 +7936,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7946,7 +7946,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7964,7 +7964,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -7974,7 +7974,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -7992,7 +7992,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8002,7 +8002,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8020,7 +8020,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8048,7 +8048,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8058,7 +8058,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8076,7 +8076,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8086,7 +8086,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8104,7 +8104,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8114,7 +8114,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8160,7 +8160,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8170,7 +8170,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8188,7 +8188,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8198,7 +8198,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8216,7 +8216,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8226,7 +8226,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8244,7 +8244,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8254,7 +8254,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8272,7 +8272,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8282,7 +8282,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8300,7 +8300,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8310,7 +8310,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8356,7 +8356,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8366,7 +8366,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8412,7 +8412,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8422,7 +8422,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8468,7 +8468,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8478,7 +8478,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8580,7 +8580,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8590,7 +8590,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8636,7 +8636,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8646,7 +8646,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8692,7 +8692,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8702,7 +8702,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8748,7 +8748,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8776,7 +8776,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8786,7 +8786,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8804,7 +8804,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8832,7 +8832,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8842,7 +8842,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8888,7 +8888,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8898,7 +8898,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8916,7 +8916,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -8926,7 +8926,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -8944,7 +8944,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9000,7 +9000,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9028,7 +9028,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9084,7 +9084,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9140,7 +9140,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9150,7 +9150,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9196,7 +9196,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9206,7 +9206,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9224,7 +9224,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9234,7 +9234,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9252,7 +9252,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9262,7 +9262,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9308,7 +9308,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9318,7 +9318,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9336,7 +9336,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9346,7 +9346,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9364,7 +9364,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9374,7 +9374,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9392,7 +9392,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9402,7 +9402,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9420,7 +9420,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9430,7 +9430,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9448,7 +9448,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9458,7 +9458,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9476,7 +9476,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9486,7 +9486,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9504,7 +9504,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9514,7 +9514,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9560,7 +9560,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9570,7 +9570,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9588,7 +9588,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9598,7 +9598,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9616,7 +9616,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9644,7 +9644,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9654,7 +9654,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9672,7 +9672,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9682,7 +9682,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9700,7 +9700,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9710,7 +9710,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9756,7 +9756,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9766,7 +9766,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9784,7 +9784,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9794,7 +9794,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9840,7 +9840,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9850,7 +9850,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9896,7 +9896,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9906,7 +9906,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9924,7 +9924,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9934,7 +9934,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -9980,7 +9980,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -9990,7 +9990,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10008,7 +10008,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10018,7 +10018,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10064,7 +10064,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10074,7 +10074,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10092,7 +10092,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10102,7 +10102,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10120,7 +10120,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10148,7 +10148,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10158,7 +10158,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10176,7 +10176,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10186,7 +10186,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10204,7 +10204,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10214,7 +10214,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10260,7 +10260,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10270,7 +10270,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10288,7 +10288,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10298,7 +10298,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10316,7 +10316,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10326,7 +10326,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10484,7 +10484,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10494,7 +10494,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10568,7 +10568,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10578,7 +10578,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10596,7 +10596,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10606,7 +10606,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10624,7 +10624,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10652,7 +10652,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10662,7 +10662,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10680,7 +10680,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10690,7 +10690,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10708,7 +10708,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10718,7 +10718,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10736,7 +10736,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10764,7 +10764,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10774,7 +10774,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10792,17 +10792,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10820,7 +10820,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10830,7 +10830,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10904,7 +10904,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10914,7 +10914,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10932,17 +10932,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -10988,7 +10988,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -10998,7 +10998,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11016,7 +11016,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11044,7 +11044,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11054,7 +11054,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11072,7 +11072,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11082,7 +11082,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11184,7 +11184,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11194,7 +11194,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11212,7 +11212,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11222,7 +11222,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11240,7 +11240,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11250,7 +11250,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11324,7 +11324,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11334,7 +11334,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11352,7 +11352,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11362,7 +11362,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11380,7 +11380,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11390,7 +11390,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11408,7 +11408,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11418,7 +11418,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11436,7 +11436,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11446,7 +11446,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11464,7 +11464,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11474,7 +11474,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11492,7 +11492,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11502,7 +11502,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11520,17 +11520,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11548,7 +11548,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11558,7 +11558,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11576,7 +11576,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11586,7 +11586,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11632,7 +11632,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11642,7 +11642,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11660,7 +11660,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11670,7 +11670,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11688,7 +11688,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11698,7 +11698,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11716,7 +11716,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11726,7 +11726,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11744,7 +11744,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11754,7 +11754,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11772,7 +11772,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11782,7 +11782,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11800,7 +11800,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11810,7 +11810,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11856,7 +11856,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11866,7 +11866,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11884,17 +11884,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11968,7 +11968,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -11978,7 +11978,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -11996,7 +11996,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12006,7 +12006,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12052,7 +12052,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12080,7 +12080,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12090,7 +12090,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12108,7 +12108,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12118,7 +12118,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12136,7 +12136,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12146,7 +12146,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12192,7 +12192,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12202,7 +12202,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12220,7 +12220,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12248,13 +12248,13 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -12276,7 +12276,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12286,7 +12286,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12304,7 +12304,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12314,7 +12314,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12332,7 +12332,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12360,7 +12360,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12370,7 +12370,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12388,17 +12388,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12416,7 +12416,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12426,7 +12426,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12472,7 +12472,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12482,7 +12482,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12500,7 +12500,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12528,7 +12528,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12640,7 +12640,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12650,7 +12650,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12668,7 +12668,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12678,7 +12678,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12724,7 +12724,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12734,7 +12734,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12752,7 +12752,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12808,7 +12808,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12818,7 +12818,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12836,7 +12836,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12864,7 +12864,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12920,7 +12920,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12930,7 +12930,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -12976,7 +12976,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -12986,7 +12986,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13004,7 +13004,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13014,7 +13014,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13032,7 +13032,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13042,7 +13042,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13060,7 +13060,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13070,7 +13070,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13088,17 +13088,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13116,7 +13116,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13126,7 +13126,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13144,7 +13144,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13154,7 +13154,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13172,7 +13172,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13182,7 +13182,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13200,7 +13200,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13210,7 +13210,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13256,7 +13256,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13266,7 +13266,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13284,9 +13284,9 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
@@ -13294,7 +13294,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13340,7 +13340,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13350,7 +13350,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13368,7 +13368,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13378,7 +13378,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13396,7 +13396,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13406,7 +13406,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13424,7 +13424,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13434,7 +13434,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13452,7 +13452,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13462,7 +13462,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13480,7 +13480,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13490,7 +13490,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13536,7 +13536,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13546,7 +13546,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13592,7 +13592,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13602,7 +13602,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13676,7 +13676,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13686,7 +13686,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13760,7 +13760,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13770,7 +13770,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13788,7 +13788,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13798,7 +13798,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13816,7 +13816,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13826,7 +13826,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13844,7 +13844,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13854,7 +13854,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13900,17 +13900,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13928,17 +13928,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13956,7 +13956,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13966,7 +13966,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -13984,7 +13984,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -13994,7 +13994,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14124,7 +14124,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14152,7 +14152,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14162,7 +14162,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14208,7 +14208,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14264,17 +14264,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14292,9 +14292,9 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
@@ -14302,7 +14302,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14320,7 +14320,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14330,7 +14330,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14348,17 +14348,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14376,7 +14376,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14386,7 +14386,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14432,7 +14432,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14442,7 +14442,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14516,7 +14516,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14526,7 +14526,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14544,7 +14544,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14554,7 +14554,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14572,7 +14572,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14628,7 +14628,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14638,7 +14638,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14656,7 +14656,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14666,7 +14666,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14712,7 +14712,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14722,7 +14722,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14796,17 +14796,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14824,7 +14824,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14852,7 +14852,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14862,7 +14862,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14880,7 +14880,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14890,7 +14890,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -14936,7 +14936,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -14946,7 +14946,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15020,7 +15020,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15030,7 +15030,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15048,7 +15048,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15104,7 +15104,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15114,7 +15114,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15132,7 +15132,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15244,7 +15244,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15254,7 +15254,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15272,7 +15272,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15282,7 +15282,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15328,7 +15328,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15338,7 +15338,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15356,7 +15356,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15366,7 +15366,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15384,7 +15384,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15394,7 +15394,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15412,7 +15412,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15422,7 +15422,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15468,7 +15468,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15496,7 +15496,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15506,7 +15506,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15524,7 +15524,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15534,7 +15534,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15552,7 +15552,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15562,7 +15562,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15580,17 +15580,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15608,7 +15608,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15618,7 +15618,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15636,7 +15636,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15664,7 +15664,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15674,7 +15674,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15692,7 +15692,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15702,7 +15702,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15720,7 +15720,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15730,7 +15730,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15748,7 +15748,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15776,7 +15776,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15804,7 +15804,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15814,7 +15814,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15832,7 +15832,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15842,7 +15842,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15860,7 +15860,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15870,7 +15870,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15888,7 +15888,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15898,7 +15898,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15944,7 +15944,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15954,7 +15954,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -15972,7 +15972,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -15982,7 +15982,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16000,7 +16000,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16010,7 +16010,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16056,7 +16056,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16066,7 +16066,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16084,7 +16084,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16094,7 +16094,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16112,7 +16112,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16122,7 +16122,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16140,7 +16140,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16150,7 +16150,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16168,7 +16168,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16178,7 +16178,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16196,7 +16196,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16206,7 +16206,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16224,7 +16224,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16234,7 +16234,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16252,7 +16252,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16262,7 +16262,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16280,7 +16280,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16290,7 +16290,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16308,7 +16308,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16318,7 +16318,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16336,7 +16336,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16346,7 +16346,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16420,7 +16420,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16430,7 +16430,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16504,7 +16504,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16514,7 +16514,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16532,7 +16532,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16542,7 +16542,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16560,7 +16560,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16570,7 +16570,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16588,7 +16588,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16598,7 +16598,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16644,7 +16644,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16654,7 +16654,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16700,7 +16700,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16756,7 +16756,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16766,7 +16766,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16784,7 +16784,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16840,7 +16840,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16850,7 +16850,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16868,7 +16868,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16878,7 +16878,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -16896,7 +16896,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16952,7 +16952,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -16962,7 +16962,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17008,7 +17008,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17018,7 +17018,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17064,7 +17064,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17074,7 +17074,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17092,7 +17092,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17120,7 +17120,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17130,7 +17130,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17148,7 +17148,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17204,7 +17204,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17214,7 +17214,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17232,7 +17232,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17242,7 +17242,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17260,7 +17260,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17270,7 +17270,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17288,13 +17288,13 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -17316,7 +17316,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17326,7 +17326,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17344,7 +17344,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17354,7 +17354,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17372,7 +17372,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17400,7 +17400,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17410,7 +17410,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17428,7 +17428,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17438,7 +17438,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17512,7 +17512,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17522,7 +17522,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17540,7 +17540,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17550,7 +17550,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17652,7 +17652,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17662,7 +17662,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17708,7 +17708,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17718,7 +17718,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17764,7 +17764,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17774,7 +17774,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17792,7 +17792,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17802,7 +17802,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17820,7 +17820,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17830,7 +17830,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17848,7 +17848,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17858,7 +17858,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17904,7 +17904,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17914,7 +17914,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17932,7 +17932,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17942,7 +17942,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -17960,7 +17960,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -17970,7 +17970,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18016,7 +18016,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18026,7 +18026,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18044,7 +18044,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18054,7 +18054,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18072,7 +18072,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18082,7 +18082,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18128,7 +18128,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18138,7 +18138,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18156,7 +18156,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18166,7 +18166,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18212,7 +18212,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18222,7 +18222,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18240,7 +18240,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18268,17 +18268,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18296,7 +18296,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18306,7 +18306,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18324,7 +18324,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18334,7 +18334,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18352,7 +18352,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18362,7 +18362,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18436,7 +18436,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18446,7 +18446,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18464,7 +18464,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18474,7 +18474,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18520,7 +18520,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18576,7 +18576,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18586,7 +18586,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18632,7 +18632,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18642,7 +18642,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18660,7 +18660,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18670,7 +18670,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18688,7 +18688,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18698,7 +18698,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18716,7 +18716,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18726,7 +18726,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18744,7 +18744,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18754,7 +18754,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18772,17 +18772,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18800,7 +18800,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18810,7 +18810,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18828,7 +18828,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18856,7 +18856,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18866,7 +18866,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18884,7 +18884,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -18894,7 +18894,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18968,9 +18968,9 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
@@ -18978,7 +18978,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -18996,7 +18996,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19006,7 +19006,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19024,7 +19024,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19034,7 +19034,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19080,7 +19080,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19108,7 +19108,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19136,7 +19136,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19146,7 +19146,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19192,7 +19192,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19202,7 +19202,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19220,7 +19220,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19230,7 +19230,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19248,7 +19248,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19258,7 +19258,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19276,17 +19276,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19360,7 +19360,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19370,7 +19370,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19388,7 +19388,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19398,7 +19398,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19472,7 +19472,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19482,7 +19482,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19556,7 +19556,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19566,7 +19566,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19640,7 +19640,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19650,7 +19650,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19668,7 +19668,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19678,7 +19678,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19724,7 +19724,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19734,7 +19734,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19780,7 +19780,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19790,7 +19790,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19864,7 +19864,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19874,7 +19874,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19892,7 +19892,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19948,7 +19948,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19958,7 +19958,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -19976,7 +19976,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -19986,7 +19986,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20004,9 +20004,9 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
@@ -20014,7 +20014,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20032,7 +20032,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20042,7 +20042,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20060,7 +20060,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20088,7 +20088,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20098,7 +20098,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20144,7 +20144,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20154,7 +20154,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20172,7 +20172,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20182,7 +20182,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20200,7 +20200,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20210,7 +20210,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20228,7 +20228,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20238,7 +20238,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20256,7 +20256,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20284,7 +20284,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20294,7 +20294,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20312,7 +20312,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20322,7 +20322,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20340,7 +20340,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20350,7 +20350,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20424,7 +20424,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20480,7 +20480,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20564,7 +20564,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20592,7 +20592,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20602,7 +20602,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20648,7 +20648,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20658,7 +20658,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20676,7 +20676,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20686,7 +20686,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20732,7 +20732,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20742,7 +20742,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20760,7 +20760,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20770,7 +20770,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20788,7 +20788,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20798,7 +20798,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20872,13 +20872,13 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -20900,7 +20900,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20910,7 +20910,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20928,7 +20928,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20938,7 +20938,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -20956,7 +20956,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -20966,7 +20966,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21040,7 +21040,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21050,7 +21050,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21068,7 +21068,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21078,7 +21078,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21124,7 +21124,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21134,7 +21134,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21152,7 +21152,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21162,7 +21162,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21180,17 +21180,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21208,7 +21208,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21236,7 +21236,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21246,7 +21246,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21264,7 +21264,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21274,7 +21274,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21292,7 +21292,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21302,7 +21302,7 @@
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21320,7 +21320,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21348,7 +21348,7 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
@@ -21369,8 +21369,8 @@
         ],
         "index": 10,
         "full": [
-            false,
-            false
+            true,
+            true
         ],
         "sections": [
             {
@@ -21391,16 +21391,16 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
-                "ccda_encounters": false,
-                "ccda_medications": false,
+                "ccda_encounters": true,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
-                "ccda_vitals": false,
+                "ccda_vitals": true,
                 "ccda_results": true
             },
             {
@@ -21409,14 +21409,14 @@
                     "Medications",
                     "Problems"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
@@ -21433,11 +21433,11 @@
         ],
         "index": 11,
         "full": [
-            false,
-            false,
-            false,
-            false,
-            false
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "sections": [
             {
@@ -21453,17 +21453,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Discharge Summary",
@@ -21478,88 +21478,88 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": false,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": false,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": false,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": false,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": false,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": false,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
@@ -21574,8 +21574,8 @@
         ],
         "index": 12,
         "full": [
-            false,
-            false
+            true,
+            true
         ],
         "sections": [
             {
@@ -21591,17 +21591,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
-                "ccda_encounters": false,
+                "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             },
             {
                 "template": "Continuity Of Care Document",
@@ -21616,17 +21616,17 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,
-                "ccda_results": false
+                "ccda_results": true
             }
         ]
     },
@@ -21648,19 +21648,19 @@
         ],
         "index": 13,
         "full": [
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "sections": [
             {
@@ -21676,184 +21676,12 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": false,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Discharge Summary",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": false,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": false,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": true,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": false,
-                "ccda_socialHistory": true,
-                "ccda_allergies": true,
-                "ccda_encounters": false,
-                "ccda_medications": true,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": true,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": true,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": true,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": true,
-                "ccda_medications": true,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Medications",
-                    "Problems",
-                    "Procedures",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
-                "ccda_encounters": false,
+                "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
@@ -21873,12 +21701,12 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
                 "ccda_allergies": true,
-                "ccda_encounters": false,
+                "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
@@ -21898,12 +21726,12 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
@@ -21923,36 +21751,36 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
-                "ccda_demographics": true,
-                "ccda_procedures": false,
-                "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
-                "ccda_medications": true,
-                "ccda_problems": true,
-                "ccda_imunizations": true,
-                "ccda_vitals": true,
-                "ccda_results": true
-            },
-            {
-                "template": "Continuity Of Care Document",
-                "xml_sections": [
-                    "Allergies",
-                    "Encounters",
-                    "Immunizations",
-                    "Medications",
-                    "Problems",
-                    "Results",
-                    "Vital Signs",
-                    "Social History"
-                ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
                 "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
@@ -21972,12 +21800,184 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
-                "ccda_encounters": false,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Discharge Summary",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
+                "ccda_medications": true,
+                "ccda_problems": true,
+                "ccda_imunizations": true,
+                "ccda_vitals": true,
+                "ccda_results": true
+            },
+            {
+                "template": "Continuity Of Care Document",
+                "xml_sections": [
+                    "Allergies",
+                    "Encounters",
+                    "Immunizations",
+                    "Medications",
+                    "Problems",
+                    "Procedures",
+                    "Results",
+                    "Vital Signs",
+                    "Social History"
+                ],
+                "full": true,
+                "ccda_demographics": true,
+                "ccda_procedures": true,
+                "ccda_socialHistory": true,
+                "ccda_allergies": true,
+                "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
@@ -21992,7 +21992,7 @@
         ],
         "index": 14,
         "full": [
-            false
+            true
         ],
         "sections": [
             {
@@ -22008,13 +22008,13 @@
                     "Vital Signs",
                     "Social History"
                 ],
-                "full": false,
+                "full": true,
                 "ccda_demographics": true,
-                "ccda_procedures": false,
+                "ccda_procedures": true,
                 "ccda_socialHistory": true,
-                "ccda_allergies": false,
+                "ccda_allergies": true,
                 "ccda_encounters": true,
-                "ccda_medications": false,
+                "ccda_medications": true,
                 "ccda_problems": true,
                 "ccda_imunizations": true,
                 "ccda_vitals": true,

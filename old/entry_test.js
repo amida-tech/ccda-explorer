@@ -2,7 +2,7 @@ var f="./entry.xml";
 //var f="./allergy_entry.xml";
 
 //var bb = require("blue-button");
-var bb = require("../../amida-tech/blue-button/index.js");
+var bb = require("../../../amida-tech/blue-button/index.js");
 
 var fs=require("fs");
 

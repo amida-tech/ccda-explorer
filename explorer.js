@@ -68,7 +68,7 @@ function parse(vendor, vendor_id, file_id, filename){
     //save sections xml
 
     var sections=["ccda_demographics","ccda_procedures","ccda_socialHistory","ccda_allergies","ccda_encounters",
-    "ccda_medications","ccda_problems","ccda_imunizations","ccda_vitals","ccda_results"];
+    "ccda_medications","ccda_problems","ccda_immunizations","ccda_vitals","ccda_results"];
     //save sections JSON
     for (section in sections){
         try {

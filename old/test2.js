@@ -1,8 +1,9 @@
-var f="./sample_ccdas/EMERGE/Patient-164.xml";
-f="./test.xml";
+var f="../sample_ccdas/EMERGE/Patient-164.xml";
+//f="./test.xml";
+//f="../sample_ccdas/Kinsights Samples/kinsights-sample-timmy.xml";
 
 //var bb = require("blue-button");
-var bb = require("../../amida-tech/blue-button/index.js");
+var bb = require("../../../amida-tech/blue-button/index.js");
 
 var fs=require("fs");
 
@@ -28,7 +29,7 @@ var data = fs.readFileSync(f).toString();
 //var data = fs.readFileSync("../../amida-tech/blue-button/test/fixtures/file-snippets/CCD_1_Problems.xml").toString();
 
 var r = bb.xml(data);
-var j = bb.parseXml(r, {component:"ccda_results"});
+var j = bb.parseXml(r, {component:"ccda_ccd"});
 
 //var j=bb.parseString(data, {component:"ccda_allergies"});
 
