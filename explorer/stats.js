@@ -27,7 +27,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -42,7 +42,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -57,7 +57,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -72,7 +72,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -87,7 +87,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -123,7 +123,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -158,7 +158,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -191,7 +191,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -228,7 +228,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -266,7 +266,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -291,7 +291,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -322,7 +322,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -373,7 +373,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -396,7 +396,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -411,7 +411,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -432,7 +432,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -455,7 +455,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -470,7 +470,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -489,7 +489,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -509,7 +509,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -524,7 +524,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -582,7 +582,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -607,7 +607,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -632,7 +632,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -657,7 +657,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -682,7 +682,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -707,7 +707,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -732,7 +732,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -757,7 +757,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -782,7 +782,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -807,7 +807,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -832,7 +832,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -857,7 +857,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -2260,7 +2260,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2288,7 +2288,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2316,7 +2316,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2344,7 +2344,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2372,7 +2372,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2400,7 +2400,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2428,7 +2428,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2456,7 +2456,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2484,7 +2484,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2512,7 +2512,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2540,7 +2540,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2568,7 +2568,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2596,7 +2596,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2624,7 +2624,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2652,7 +2652,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2680,7 +2680,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2708,7 +2708,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2736,7 +2736,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2764,7 +2764,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2792,7 +2792,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2820,7 +2820,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2848,7 +2848,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2876,7 +2876,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2904,7 +2904,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2932,7 +2932,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2960,7 +2960,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -2988,7 +2988,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3016,7 +3016,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3044,7 +3044,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3072,7 +3072,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3100,7 +3100,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3128,7 +3128,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3156,7 +3156,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3184,7 +3184,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3212,7 +3212,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3240,7 +3240,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3268,7 +3268,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3296,7 +3296,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3324,7 +3324,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3352,7 +3352,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3380,7 +3380,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3408,7 +3408,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3436,7 +3436,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3464,7 +3464,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3492,7 +3492,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3520,7 +3520,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3548,7 +3548,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3576,7 +3576,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3604,7 +3604,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3632,7 +3632,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3660,7 +3660,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3688,7 +3688,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3716,7 +3716,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3744,7 +3744,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3772,7 +3772,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3800,7 +3800,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3828,7 +3828,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3856,7 +3856,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3884,7 +3884,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3912,7 +3912,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3940,7 +3940,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3968,7 +3968,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -3996,7 +3996,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4024,7 +4024,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4052,7 +4052,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4080,7 +4080,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4108,7 +4108,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4136,7 +4136,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4164,7 +4164,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4192,7 +4192,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4220,7 +4220,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4248,7 +4248,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4276,7 +4276,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4304,7 +4304,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4332,7 +4332,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4360,7 +4360,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4388,7 +4388,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4416,7 +4416,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4444,7 +4444,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4472,7 +4472,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4500,7 +4500,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4528,7 +4528,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4556,7 +4556,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4584,7 +4584,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4612,7 +4612,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4640,7 +4640,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4668,7 +4668,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4696,7 +4696,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4724,7 +4724,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4752,7 +4752,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4780,7 +4780,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4808,7 +4808,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4836,7 +4836,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4864,7 +4864,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4892,7 +4892,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4920,7 +4920,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4948,7 +4948,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -4976,7 +4976,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5004,7 +5004,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5032,7 +5032,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5060,7 +5060,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5088,7 +5088,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5116,7 +5116,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5144,7 +5144,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5172,7 +5172,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5200,7 +5200,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5228,7 +5228,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5256,7 +5256,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5284,7 +5284,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5312,7 +5312,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5340,7 +5340,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5368,7 +5368,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5396,7 +5396,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5424,7 +5424,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5452,7 +5452,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5480,7 +5480,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5508,7 +5508,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5536,7 +5536,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5564,7 +5564,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5592,7 +5592,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5620,7 +5620,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5648,7 +5648,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5676,7 +5676,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5704,7 +5704,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5732,7 +5732,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5760,7 +5760,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5788,7 +5788,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5816,7 +5816,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5844,7 +5844,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5872,7 +5872,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5900,7 +5900,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5928,7 +5928,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5956,7 +5956,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -5984,7 +5984,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6012,7 +6012,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6040,7 +6040,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6068,7 +6068,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6096,7 +6096,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6124,7 +6124,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6152,7 +6152,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6180,7 +6180,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6208,7 +6208,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6236,7 +6236,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6264,7 +6264,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6292,7 +6292,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6320,7 +6320,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6348,7 +6348,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6376,7 +6376,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6404,7 +6404,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6432,7 +6432,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6460,7 +6460,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6488,7 +6488,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6516,7 +6516,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6544,7 +6544,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6572,7 +6572,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6600,7 +6600,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6628,7 +6628,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6656,7 +6656,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6684,7 +6684,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6712,7 +6712,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6740,7 +6740,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6768,7 +6768,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6796,7 +6796,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6824,7 +6824,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6852,7 +6852,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6880,7 +6880,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6908,7 +6908,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6936,7 +6936,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6964,7 +6964,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -6992,7 +6992,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7020,7 +7020,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7048,7 +7048,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7076,7 +7076,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7104,7 +7104,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7132,7 +7132,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7160,7 +7160,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7188,7 +7188,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7216,7 +7216,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7244,7 +7244,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7272,7 +7272,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7300,7 +7300,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7328,7 +7328,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7356,7 +7356,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7384,7 +7384,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7412,7 +7412,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7440,7 +7440,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7468,7 +7468,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7496,7 +7496,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7524,7 +7524,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7552,7 +7552,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7580,7 +7580,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7608,7 +7608,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7636,7 +7636,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7664,7 +7664,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7692,7 +7692,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7720,7 +7720,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7748,7 +7748,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7776,7 +7776,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7804,7 +7804,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7832,7 +7832,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7860,7 +7860,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7888,7 +7888,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7916,7 +7916,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7944,7 +7944,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -7972,7 +7972,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8000,7 +8000,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8028,7 +8028,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8056,7 +8056,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8084,7 +8084,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8112,7 +8112,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8140,7 +8140,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8168,7 +8168,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8196,7 +8196,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8224,7 +8224,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8252,7 +8252,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8280,7 +8280,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8308,7 +8308,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8336,7 +8336,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8364,7 +8364,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8392,7 +8392,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8420,7 +8420,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8448,7 +8448,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8476,7 +8476,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8504,7 +8504,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8532,7 +8532,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8560,7 +8560,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8588,7 +8588,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8616,7 +8616,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8644,7 +8644,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8672,7 +8672,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8700,7 +8700,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8728,7 +8728,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8756,7 +8756,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8784,7 +8784,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8812,7 +8812,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8840,7 +8840,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8868,7 +8868,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8896,7 +8896,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8924,7 +8924,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8952,7 +8952,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -8980,7 +8980,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9008,7 +9008,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9036,7 +9036,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9064,7 +9064,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9092,7 +9092,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9120,7 +9120,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9148,7 +9148,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9176,7 +9176,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9204,7 +9204,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9232,7 +9232,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9260,7 +9260,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9288,7 +9288,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9316,7 +9316,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9344,7 +9344,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9372,7 +9372,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9400,7 +9400,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9428,7 +9428,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9456,7 +9456,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9484,7 +9484,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9512,7 +9512,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9540,7 +9540,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9568,7 +9568,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9596,7 +9596,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9624,7 +9624,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9652,7 +9652,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9680,7 +9680,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9708,7 +9708,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9736,7 +9736,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9764,7 +9764,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9792,7 +9792,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9820,7 +9820,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9848,7 +9848,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9876,7 +9876,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9904,7 +9904,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9932,7 +9932,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9960,7 +9960,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -9988,7 +9988,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10016,7 +10016,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10044,7 +10044,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10072,7 +10072,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10100,7 +10100,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10128,7 +10128,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10156,7 +10156,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10184,7 +10184,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10212,7 +10212,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10240,7 +10240,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10268,7 +10268,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10296,7 +10296,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10324,7 +10324,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10352,7 +10352,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10380,7 +10380,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10408,7 +10408,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10436,7 +10436,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10464,7 +10464,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10492,7 +10492,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10520,7 +10520,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10548,7 +10548,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10576,7 +10576,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10604,7 +10604,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10632,7 +10632,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10660,7 +10660,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10688,7 +10688,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10716,7 +10716,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10744,7 +10744,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10772,7 +10772,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10800,7 +10800,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10828,7 +10828,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10856,7 +10856,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10884,7 +10884,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10912,7 +10912,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10940,7 +10940,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10968,7 +10968,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -10996,7 +10996,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11024,7 +11024,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11052,7 +11052,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11080,7 +11080,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11108,7 +11108,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11136,7 +11136,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11164,7 +11164,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11192,7 +11192,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11220,7 +11220,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11248,7 +11248,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11276,7 +11276,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11304,7 +11304,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11332,7 +11332,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11360,7 +11360,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11388,7 +11388,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11416,7 +11416,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11444,7 +11444,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11472,7 +11472,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11500,7 +11500,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11528,7 +11528,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11556,7 +11556,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11584,7 +11584,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11612,7 +11612,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11640,7 +11640,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11668,7 +11668,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11696,7 +11696,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11724,7 +11724,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11752,7 +11752,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11780,7 +11780,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11808,7 +11808,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11836,7 +11836,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11864,7 +11864,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11892,7 +11892,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11920,7 +11920,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11948,7 +11948,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -11976,7 +11976,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12004,7 +12004,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12032,7 +12032,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12060,7 +12060,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12088,7 +12088,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12116,7 +12116,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12144,7 +12144,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12172,7 +12172,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12200,7 +12200,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12228,7 +12228,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12256,7 +12256,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12284,7 +12284,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12312,7 +12312,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12340,7 +12340,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12368,7 +12368,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12396,7 +12396,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12424,7 +12424,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12452,7 +12452,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12480,7 +12480,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12508,7 +12508,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12536,7 +12536,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12564,7 +12564,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12592,7 +12592,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12620,7 +12620,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12648,7 +12648,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12676,7 +12676,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12704,7 +12704,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12732,7 +12732,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12760,7 +12760,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12788,7 +12788,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12816,7 +12816,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12844,7 +12844,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12872,7 +12872,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12900,7 +12900,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12928,7 +12928,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12956,7 +12956,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -12984,7 +12984,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13012,7 +13012,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13040,7 +13040,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13068,7 +13068,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13096,7 +13096,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13124,7 +13124,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13152,7 +13152,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13180,7 +13180,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13208,7 +13208,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13236,7 +13236,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13264,7 +13264,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13292,7 +13292,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13320,7 +13320,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13348,7 +13348,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13376,7 +13376,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13404,7 +13404,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13432,7 +13432,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13460,7 +13460,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13488,7 +13488,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13516,7 +13516,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13544,7 +13544,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13572,7 +13572,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13600,7 +13600,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13628,7 +13628,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13656,7 +13656,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13684,7 +13684,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13712,7 +13712,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13740,7 +13740,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13768,7 +13768,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13796,7 +13796,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13824,7 +13824,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13852,7 +13852,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13880,7 +13880,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13908,7 +13908,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13936,7 +13936,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13964,7 +13964,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -13992,7 +13992,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14020,7 +14020,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14048,7 +14048,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14076,7 +14076,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14104,7 +14104,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14132,7 +14132,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14160,7 +14160,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14188,7 +14188,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14216,7 +14216,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14244,7 +14244,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14272,7 +14272,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14300,7 +14300,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14328,7 +14328,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14356,7 +14356,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14384,7 +14384,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14412,7 +14412,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14440,7 +14440,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14468,7 +14468,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14496,7 +14496,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14524,7 +14524,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14552,7 +14552,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14580,7 +14580,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14608,7 +14608,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14636,7 +14636,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14664,7 +14664,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14692,7 +14692,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14720,7 +14720,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14748,7 +14748,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14776,7 +14776,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14804,7 +14804,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14832,7 +14832,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14860,7 +14860,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14888,7 +14888,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14916,7 +14916,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14944,7 +14944,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -14972,7 +14972,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15000,7 +15000,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15028,7 +15028,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15056,7 +15056,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15084,7 +15084,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15112,7 +15112,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15140,7 +15140,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15168,7 +15168,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15196,7 +15196,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15224,7 +15224,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15252,7 +15252,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15280,7 +15280,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15308,7 +15308,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15336,7 +15336,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15364,7 +15364,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15392,7 +15392,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15420,7 +15420,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15448,7 +15448,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15476,7 +15476,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15504,7 +15504,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15532,7 +15532,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15560,7 +15560,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15588,7 +15588,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15616,7 +15616,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15644,7 +15644,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15672,7 +15672,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15700,7 +15700,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15728,7 +15728,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15756,7 +15756,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15784,7 +15784,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15812,7 +15812,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15840,7 +15840,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15868,7 +15868,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15896,7 +15896,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15924,7 +15924,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15952,7 +15952,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -15980,7 +15980,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16008,7 +16008,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16036,7 +16036,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16064,7 +16064,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16092,7 +16092,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16120,7 +16120,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16148,7 +16148,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16176,7 +16176,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16204,7 +16204,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16232,7 +16232,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16260,7 +16260,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16288,7 +16288,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16316,7 +16316,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16344,7 +16344,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16372,7 +16372,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16400,7 +16400,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16428,7 +16428,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16456,7 +16456,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16484,7 +16484,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16512,7 +16512,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16540,7 +16540,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16568,7 +16568,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16596,7 +16596,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16624,7 +16624,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16652,7 +16652,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16680,7 +16680,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16708,7 +16708,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16736,7 +16736,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16764,7 +16764,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16792,7 +16792,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16820,7 +16820,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16848,7 +16848,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16876,7 +16876,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16904,7 +16904,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16932,7 +16932,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16960,7 +16960,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -16988,7 +16988,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17016,7 +17016,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17044,7 +17044,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17072,7 +17072,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17100,7 +17100,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17128,7 +17128,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17156,7 +17156,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17184,7 +17184,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17212,7 +17212,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17240,7 +17240,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17268,7 +17268,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17296,7 +17296,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17324,7 +17324,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17352,7 +17352,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17380,7 +17380,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17408,7 +17408,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17436,7 +17436,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17464,7 +17464,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17492,7 +17492,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17520,7 +17520,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17548,7 +17548,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17576,7 +17576,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17604,7 +17604,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17632,7 +17632,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17660,7 +17660,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17688,7 +17688,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17716,7 +17716,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17744,7 +17744,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17772,7 +17772,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17800,7 +17800,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17828,7 +17828,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17856,7 +17856,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17884,7 +17884,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17912,7 +17912,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17940,7 +17940,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17968,7 +17968,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -17996,7 +17996,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18024,7 +18024,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18052,7 +18052,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18080,7 +18080,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18108,7 +18108,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18136,7 +18136,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18164,7 +18164,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18192,7 +18192,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18220,7 +18220,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18248,7 +18248,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18276,7 +18276,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18304,7 +18304,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18332,7 +18332,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18360,7 +18360,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18388,7 +18388,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18416,7 +18416,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18444,7 +18444,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18472,7 +18472,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18500,7 +18500,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18528,7 +18528,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18556,7 +18556,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18584,7 +18584,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18612,7 +18612,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18640,7 +18640,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18668,7 +18668,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18696,7 +18696,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18724,7 +18724,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18752,7 +18752,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18780,7 +18780,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18808,7 +18808,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18836,7 +18836,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18864,7 +18864,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18892,7 +18892,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18920,7 +18920,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18948,7 +18948,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -18976,7 +18976,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19004,7 +19004,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19032,7 +19032,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19060,7 +19060,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19088,7 +19088,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19116,7 +19116,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19144,7 +19144,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19172,7 +19172,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19200,7 +19200,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19228,7 +19228,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19256,7 +19256,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19284,7 +19284,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19312,7 +19312,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19340,7 +19340,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19368,7 +19368,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19396,7 +19396,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19424,7 +19424,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19452,7 +19452,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19480,7 +19480,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19508,7 +19508,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19536,7 +19536,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19564,7 +19564,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19592,7 +19592,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19620,7 +19620,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19648,7 +19648,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19676,7 +19676,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19704,7 +19704,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19732,7 +19732,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19760,7 +19760,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19788,7 +19788,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19816,7 +19816,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19844,7 +19844,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19872,7 +19872,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19900,7 +19900,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19928,7 +19928,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19956,7 +19956,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -19984,7 +19984,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20012,7 +20012,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20040,7 +20040,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20068,7 +20068,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20096,7 +20096,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20124,7 +20124,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20152,7 +20152,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20180,7 +20180,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20208,7 +20208,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20236,7 +20236,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20264,7 +20264,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20292,7 +20292,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20320,7 +20320,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20348,7 +20348,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20376,7 +20376,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20404,7 +20404,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20432,7 +20432,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20460,7 +20460,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20488,7 +20488,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20516,7 +20516,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20544,7 +20544,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20572,7 +20572,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20600,7 +20600,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20628,7 +20628,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20656,7 +20656,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20684,7 +20684,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20712,7 +20712,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20740,7 +20740,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20768,7 +20768,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20796,7 +20796,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20824,7 +20824,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20852,7 +20852,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20880,7 +20880,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20908,7 +20908,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20936,7 +20936,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20964,7 +20964,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -20992,7 +20992,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21020,7 +21020,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21048,7 +21048,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21076,7 +21076,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21104,7 +21104,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21132,7 +21132,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21160,7 +21160,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21188,7 +21188,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21216,7 +21216,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21244,7 +21244,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21272,7 +21272,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21300,7 +21300,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21328,7 +21328,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21356,7 +21356,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -21399,7 +21399,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21417,7 +21417,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -21461,7 +21461,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21486,7 +21486,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21511,7 +21511,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21536,7 +21536,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21561,7 +21561,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -21599,7 +21599,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21624,7 +21624,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -21684,7 +21684,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21709,7 +21709,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21734,7 +21734,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21759,7 +21759,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21783,7 +21783,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21808,7 +21808,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21832,7 +21832,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21856,7 +21856,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21881,7 +21881,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21906,7 +21906,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21931,7 +21931,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21955,7 +21955,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             },
@@ -21980,7 +21980,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
@@ -22016,7 +22016,7 @@
                 "ccda_encounters": true,
                 "ccda_medications": true,
                 "ccda_problems": true,
-                "ccda_imunizations": true,
+                "ccda_immunizations": true,
                 "ccda_vitals": true,
                 "ccda_results": true
             }
